@@ -50,5 +50,5 @@
     "gulp-sass": "^5.1.0",
     "node-sass": "^8.0.0"
   },
-  "homepage": "https://ahyeonmin.github.io/react-for-beginners"
+  "homepage": "https://ahyeonmin.github.io/react-for-beginners/index.html"
 }
